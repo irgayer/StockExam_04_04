@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Name>3213123</Name>
+    <Description>31313</Description>
+    <Price>123123</Price>
+    <Added>2019-04-04T17:11:05.5514518+06:00</Added>
+  </Product>
+  <Product>
+    <Name>3213123123</Name>
+    <Description>3131231</Description>
+    <Price>3213213</Price>
+    <Added>2019-04-04T17:11:09.0230764+06:00</Added>
+  </Product>
+</ArrayOfProduct>

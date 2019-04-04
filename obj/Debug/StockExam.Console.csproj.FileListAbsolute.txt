@@ -1,0 +1,12 @@
+c:\users\иргалиеве.corp\source\repos\StockExam\bin\Debug\StockExam.exe.config
+c:\users\иргалиеве.corp\source\repos\StockExam\bin\Debug\StockExam.exe
+c:\users\иргалиеве.corp\source\repos\StockExam\bin\Debug\StockExam.pdb
+c:\users\иргалиеве.corp\source\repos\StockExam\bin\Debug\StockExam.Modules.dll
+c:\users\иргалиеве.corp\source\repos\StockExam\bin\Debug\StockExam.Services.dll
+c:\users\иргалиеве.corp\source\repos\StockExam\bin\Debug\StockExam.Modules.pdb
+c:\users\иргалиеве.corp\source\repos\StockExam\bin\Debug\StockExam.Services.pdb
+c:\users\иргалиеве.corp\source\repos\StockExam\obj\Debug\StockExam.Console.csprojAssemblyReference.cache
+c:\users\иргалиеве.corp\source\repos\StockExam\obj\Debug\StockExam.Console.csproj.CoreCompileInputs.cache
+c:\users\иргалиеве.corp\source\repos\StockExam\obj\Debug\StockExam.Console.csproj.CopyComplete
+c:\users\иргалиеве.corp\source\repos\StockExam\obj\Debug\StockExam.exe
+c:\users\иргалиеве.corp\source\repos\StockExam\obj\Debug\StockExam.pdb

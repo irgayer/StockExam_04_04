@@ -1,0 +1,6 @@
+c:\users\иргалиеве.corp\source\repos\StockExam.Modules\bin\Debug\StockExam.Modules.dll
+c:\users\иргалиеве.corp\source\repos\StockExam.Modules\bin\Debug\StockExam.Modules.pdb
+c:\users\иргалиеве.corp\source\repos\StockExam.Modules\obj\Debug\StockExam.Modules.csprojAssemblyReference.cache
+c:\users\иргалиеве.corp\source\repos\StockExam.Modules\obj\Debug\StockExam.Modules.csproj.CoreCompileInputs.cache
+c:\users\иргалиеве.corp\source\repos\StockExam.Modules\obj\Debug\StockExam.Modules.dll
+c:\users\иргалиеве.corp\source\repos\StockExam.Modules\obj\Debug\StockExam.Modules.pdb
